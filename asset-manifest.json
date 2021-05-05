@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/09-todo-react-hoangha998/static/css/main.64f14987.chunk.css",
-    "main.js": "/09-todo-react-hoangha998/static/js/main.fcbb10c3.chunk.js",
-    "main.js.map": "/09-todo-react-hoangha998/static/js/main.fcbb10c3.chunk.js.map",
-    "runtime-main.js": "/09-todo-react-hoangha998/static/js/runtime-main.f07b02ee.js",
-    "runtime-main.js.map": "/09-todo-react-hoangha998/static/js/runtime-main.f07b02ee.js.map",
-    "static/js/2.dfbde753.chunk.js": "/09-todo-react-hoangha998/static/js/2.dfbde753.chunk.js",
-    "static/js/2.dfbde753.chunk.js.map": "/09-todo-react-hoangha998/static/js/2.dfbde753.chunk.js.map",
-    "static/js/3.cb075b6e.chunk.js": "/09-todo-react-hoangha998/static/js/3.cb075b6e.chunk.js",
-    "static/js/3.cb075b6e.chunk.js.map": "/09-todo-react-hoangha998/static/js/3.cb075b6e.chunk.js.map",
-    "index.html": "/09-todo-react-hoangha998/index.html",
-    "static/css/main.64f14987.chunk.css.map": "/09-todo-react-hoangha998/static/css/main.64f14987.chunk.css.map",
-    "static/js/2.dfbde753.chunk.js.LICENSE.txt": "/09-todo-react-hoangha998/static/js/2.dfbde753.chunk.js.LICENSE.txt"
+    "main.css": "/hoangha998/StockOverflow/static/css/main.64f14987.chunk.css",
+    "main.js": "/hoangha998/StockOverflow/static/js/main.fcbb10c3.chunk.js",
+    "main.js.map": "/hoangha998/StockOverflow/static/js/main.fcbb10c3.chunk.js.map",
+    "runtime-main.js": "/hoangha998/StockOverflow/static/js/runtime-main.3d4c6dcb.js",
+    "runtime-main.js.map": "/hoangha998/StockOverflow/static/js/runtime-main.3d4c6dcb.js.map",
+    "static/js/2.dfbde753.chunk.js": "/hoangha998/StockOverflow/static/js/2.dfbde753.chunk.js",
+    "static/js/2.dfbde753.chunk.js.map": "/hoangha998/StockOverflow/static/js/2.dfbde753.chunk.js.map",
+    "static/js/3.cb075b6e.chunk.js": "/hoangha998/StockOverflow/static/js/3.cb075b6e.chunk.js",
+    "static/js/3.cb075b6e.chunk.js.map": "/hoangha998/StockOverflow/static/js/3.cb075b6e.chunk.js.map",
+    "index.html": "/hoangha998/StockOverflow/index.html",
+    "static/css/main.64f14987.chunk.css.map": "/hoangha998/StockOverflow/static/css/main.64f14987.chunk.css.map",
+    "static/js/2.dfbde753.chunk.js.LICENSE.txt": "/hoangha998/StockOverflow/static/js/2.dfbde753.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f07b02ee.js",
+    "static/js/runtime-main.3d4c6dcb.js",
     "static/js/2.dfbde753.chunk.js",
     "static/css/main.64f14987.chunk.css",
     "static/js/main.fcbb10c3.chunk.js"
