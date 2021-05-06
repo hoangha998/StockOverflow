@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/StockOverflow/static/css/main.64f14987.chunk.css",
-    "main.js": "/StockOverflow/static/js/main.f2b7992b.chunk.js",
-    "main.js.map": "/StockOverflow/static/js/main.f2b7992b.chunk.js.map",
+    "main.js": "/StockOverflow/static/js/main.291598c0.chunk.js",
+    "main.js.map": "/StockOverflow/static/js/main.291598c0.chunk.js.map",
     "runtime-main.js": "/StockOverflow/static/js/runtime-main.518c0952.js",
     "runtime-main.js.map": "/StockOverflow/static/js/runtime-main.518c0952.js.map",
     "static/js/2.dfbde753.chunk.js": "/StockOverflow/static/js/2.dfbde753.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.518c0952.js",
     "static/js/2.dfbde753.chunk.js",
     "static/css/main.64f14987.chunk.css",
-    "static/js/main.f2b7992b.chunk.js"
+    "static/js/main.291598c0.chunk.js"
   ]
 }
