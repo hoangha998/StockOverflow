@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/StockOverflow/static/css/main.64f14987.chunk.css",
-    "main.js": "/StockOverflow/static/js/main.291598c0.chunk.js",
-    "main.js.map": "/StockOverflow/static/js/main.291598c0.chunk.js.map",
+    "main.css": "/StockOverflow/static/css/main.4065725e.chunk.css",
+    "main.js": "/StockOverflow/static/js/main.5e831fa4.chunk.js",
+    "main.js.map": "/StockOverflow/static/js/main.5e831fa4.chunk.js.map",
     "runtime-main.js": "/StockOverflow/static/js/runtime-main.518c0952.js",
     "runtime-main.js.map": "/StockOverflow/static/js/runtime-main.518c0952.js.map",
     "static/js/2.dfbde753.chunk.js": "/StockOverflow/static/js/2.dfbde753.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cb075b6e.chunk.js": "/StockOverflow/static/js/3.cb075b6e.chunk.js",
     "static/js/3.cb075b6e.chunk.js.map": "/StockOverflow/static/js/3.cb075b6e.chunk.js.map",
     "index.html": "/StockOverflow/index.html",
-    "static/css/main.64f14987.chunk.css.map": "/StockOverflow/static/css/main.64f14987.chunk.css.map",
+    "static/css/main.4065725e.chunk.css.map": "/StockOverflow/static/css/main.4065725e.chunk.css.map",
     "static/js/2.dfbde753.chunk.js.LICENSE.txt": "/StockOverflow/static/js/2.dfbde753.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.518c0952.js",
     "static/js/2.dfbde753.chunk.js",
-    "static/css/main.64f14987.chunk.css",
-    "static/js/main.291598c0.chunk.js"
+    "static/css/main.4065725e.chunk.css",
+    "static/js/main.5e831fa4.chunk.js"
   ]
 }
