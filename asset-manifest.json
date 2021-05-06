@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hoangha998/StockOverflow/static/css/main.64f14987.chunk.css",
-    "main.js": "/hoangha998/StockOverflow/static/js/main.fcbb10c3.chunk.js",
-    "main.js.map": "/hoangha998/StockOverflow/static/js/main.fcbb10c3.chunk.js.map",
-    "runtime-main.js": "/hoangha998/StockOverflow/static/js/runtime-main.3d4c6dcb.js",
-    "runtime-main.js.map": "/hoangha998/StockOverflow/static/js/runtime-main.3d4c6dcb.js.map",
-    "static/js/2.dfbde753.chunk.js": "/hoangha998/StockOverflow/static/js/2.dfbde753.chunk.js",
-    "static/js/2.dfbde753.chunk.js.map": "/hoangha998/StockOverflow/static/js/2.dfbde753.chunk.js.map",
-    "static/js/3.cb075b6e.chunk.js": "/hoangha998/StockOverflow/static/js/3.cb075b6e.chunk.js",
-    "static/js/3.cb075b6e.chunk.js.map": "/hoangha998/StockOverflow/static/js/3.cb075b6e.chunk.js.map",
-    "index.html": "/hoangha998/StockOverflow/index.html",
-    "static/css/main.64f14987.chunk.css.map": "/hoangha998/StockOverflow/static/css/main.64f14987.chunk.css.map",
-    "static/js/2.dfbde753.chunk.js.LICENSE.txt": "/hoangha998/StockOverflow/static/js/2.dfbde753.chunk.js.LICENSE.txt"
+    "main.css": "/StockOverflow/static/css/main.64f14987.chunk.css",
+    "main.js": "/StockOverflow/static/js/main.fcbb10c3.chunk.js",
+    "main.js.map": "/StockOverflow/static/js/main.fcbb10c3.chunk.js.map",
+    "runtime-main.js": "/StockOverflow/static/js/runtime-main.518c0952.js",
+    "runtime-main.js.map": "/StockOverflow/static/js/runtime-main.518c0952.js.map",
+    "static/js/2.dfbde753.chunk.js": "/StockOverflow/static/js/2.dfbde753.chunk.js",
+    "static/js/2.dfbde753.chunk.js.map": "/StockOverflow/static/js/2.dfbde753.chunk.js.map",
+    "static/js/3.cb075b6e.chunk.js": "/StockOverflow/static/js/3.cb075b6e.chunk.js",
+    "static/js/3.cb075b6e.chunk.js.map": "/StockOverflow/static/js/3.cb075b6e.chunk.js.map",
+    "index.html": "/StockOverflow/index.html",
+    "static/css/main.64f14987.chunk.css.map": "/StockOverflow/static/css/main.64f14987.chunk.css.map",
+    "static/js/2.dfbde753.chunk.js.LICENSE.txt": "/StockOverflow/static/js/2.dfbde753.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d4c6dcb.js",
+    "static/js/runtime-main.518c0952.js",
     "static/js/2.dfbde753.chunk.js",
     "static/css/main.64f14987.chunk.css",
     "static/js/main.fcbb10c3.chunk.js"
